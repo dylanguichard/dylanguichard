@@ -1,3 +1,4 @@
+![banner](banner.png)
 ### 😎 Ce que je fais
 - :computer: Développeur web depuis plus de 10 ans maintenant
 - :mortar_board: Diplomé d'un Master (M2I) de développement informatique option jeu vidéo
